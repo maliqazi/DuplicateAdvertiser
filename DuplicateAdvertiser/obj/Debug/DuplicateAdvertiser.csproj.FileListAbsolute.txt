@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\bin\Debug\DuplicateAdvertiser.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\bin\Debug\DuplicateAdvertiser.exe
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\bin\Debug\DuplicateAdvertiser.pdb
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\obj\Debug\DuplicateAdvertiser.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\obj\Debug\DuplicateAdvertiser.exe
+c:\users\ali\documents\visual studio 2015\Projects\DuplicateAdvertiser\DuplicateAdvertiser\obj\Debug\DuplicateAdvertiser.pdb
